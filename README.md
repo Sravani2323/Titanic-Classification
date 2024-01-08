@@ -1,0 +1,1 @@
+This repository is dedicated to constructing a predictive model in Python that assesses the likelihood of survival for passengers aboard the Titanic. Employing advanced data science techniques, the model analyzes relevant features to make accurate survival predictions.
